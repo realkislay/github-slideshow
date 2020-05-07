@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+God does everything; **We are God**
 Use the left arrow to go back!
